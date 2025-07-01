@@ -13,4 +13,4 @@ hh.sav, wm.sav, and bh.sav, from the 2019–20 Malawi Multiple Indicator Cluster
 
 The do-file and m-file run automatically from top to bottom, but the user may need to adjust the file paths for reading the data and saving the outputs.
 
-#RaMMPS-Data
+# RaMMPS-Data
