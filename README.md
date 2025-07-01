@@ -1,6 +1,5 @@
 This is a code repository for the manuscript “2022–23 Malawi Rapid Mortality Mobile Phone Survey (RaMMPS) dataset”, which is currently under review.
-The MATLAB file RaMMPS_data.m produces the three tables included in the manuscript, using some input data files: RaMMPSdst.csv, DHSmalawidst.csv, and RaMMPScalls.csv.
-These data files are not part of this repository but can be consolidated after running the Stata do-file RaMMPS_processing.do, available at https://github.com/Romero-Prieto/RaMMPS_U5M (also within this GitHub account).
+The MATLAB file RaMMPS_data.m produces the three tables included in the manuscript, using some input data files: RaMMPSdst.csv, DHSmalawidst.csv, and RaMMPScalls.csv. These data files are not part of this repository but can be consolidated after running the Stata do-file RaMMPS_processing.do, available at https://github.com/Romero-Prieto/RaMMPS_U5M (also within this GitHub account). RaMMPS_data.m requires some nested m-functions to produce tables and to do some calculations, also available at the same project.
 
 This routine requires the following raw data files, available from these repositories:
 
